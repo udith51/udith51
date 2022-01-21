@@ -1,9 +1,13 @@
-### C I A O👋
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udith51&theme=dark)](https://git.io/streak-stats)
-
+### <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<!-- <p>:wink:
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</p> -->
+<p align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udith51&theme=dark" width=430px height=300px>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=udith51&show_icons=true&theme=dracula&count_private=true&hide=stars" width=490px height=300px>
+</p>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udith51&theme=dark)](https://git.io/streak-stats) -->
 <!--
 **udith51/udith51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
