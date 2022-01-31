@@ -39,7 +39,7 @@ I am Udith Shyamsukha, a 2nd year under-grad from IT branch of VIT,Vellore. I ha
     <li>First author of <a href="https://drive.google.com/file/d/1gtCTh_fuoQMp1N1R4lRGStxfoiMmk1Jy/view?usp=sharing">research paper</a> at IEEE Conference.</li>
     <li>Winner of Skillwars-Coding Competition'21 organized Skillship VIT.</li>
     <li><a href="https://devpost.com/software/eventour">Winner</a> of Hack-this-Fall Hackathon'21.</li>
-    <li>Top Contributor of Student Portal-SWOC'22</li>
+    <li>Top Contributor of Student Portal-SWOC'22.</li>
   </ul>
 </p>
 
