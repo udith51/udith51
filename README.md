@@ -1,6 +1,6 @@
 <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<img src="./images/img1.png" align="right">
 I am Udith Shyamsukha, a 2nd year under-grad from IT branch of VIT,Vellore. I have been coding since 2015 but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
-
 <h2>📚 Làñgüâgēs & Frámêwørks</h2>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
