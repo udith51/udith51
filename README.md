@@ -1,4 +1,5 @@
 <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+I am Udith Shyamsukha, a 2nd year under-grad from IT branch of VIT,Vellore. I have been coding since 2015 but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
 
 <h2>📚 Làñgüâgēs & Frámêwørks</h2>
 <p>
@@ -25,9 +26,9 @@
 
 <h2>:wink: For the records...</h2>
 <p style=style="display: flex; justify-content: space-evenly; flex-wrap: wrap;" align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=udith51&theme=leafy&date_format=M%20j%5B%2C%20Y%5D" width=40%>
-  <img src="https://github-readme-stats.vercel.app/api?username=udith51&show_icons=true&theme=dracula&count_private=true&hide=stars" width=47%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=udith51&theme=react&date_format=M%20j%5B%2C%20Y%5D" width=40%>
+  <img src="https://github-readme-stats.vercel.app/api?username=udith51&show_icons=true&theme=react&count_private=true&hide=stars" width=47%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dark">
 </p>
 
 <h2>🏆 A pinch of recent achievements...</h2>
@@ -36,6 +37,7 @@
     <li>First author of <a href="https://drive.google.com/file/d/1gtCTh_fuoQMp1N1R4lRGStxfoiMmk1Jy/view?usp=sharing">research paper</a> at IEEE Conference.</li>
     <li>Winner of Skillwars-Coding Competition'21 organized Skillship VIT.</li>
     <li><a href="https://devpost.com/software/eventour">Winner</a> of Hack-this-Fall Hackathon'21.</li>
+    <li>Top Contributor of Student Portal-SWOC'22</li>
   </ul>
 </p>
 
@@ -55,21 +57,21 @@
 <h2>📌 Open Source Contribution</h2>
 <p align=center>
   <a href="https://github.com/udith51/Student-portal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=Student-portal&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=Student-portal&theme=radical" />
   </a>
 </p>  
 
 <h2>🎯 Hack-a-thons</h2>
 <p style="display: flex; justify-content: space-evenly; flex-wrap: wrap;" align=center>
   <a href="https://github.com/udith51/Eventour" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=eventour&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=eventour&theme=merko"/>
   </a>
   <a href="https://github.com/udith51/vokal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=vokal&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=vokal&theme=merko" />
   </a>
 </p> 
 
-<h2>💬 And yes, for chitchats..</h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Let's be Friends...</h2>
 <p align="left">
 <a href="https://twitter.com/udith_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udith_28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udith-shyamsukha-59052b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udith-shyamsukha-59052b224" height="30" width="40" /></a>
