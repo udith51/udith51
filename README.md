@@ -48,11 +48,11 @@ I am Udith Shyamsukha, a 2nd year under-grad from IT branch of VIT,Vellore. I ha
   <a href="https://github.com/udith51/Docsapp" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=Docsapp&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/udith51/ijrt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=ijrt&theme=tokyonight" />
-  </a>
   <a href="https://github.com/udith51/revster">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=revster&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/udith51/ijrt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=ijrt&theme=tokyonight" />
   </a>
 </p>
 
