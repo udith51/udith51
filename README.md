@@ -1,4 +1,4 @@
-<h1 align="center"> C I A O</h1> 👋
+<h1 align="center"> C I A O   👋</h1> 
 <!-- <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"></h1> -->
 <img src="./images/img1.png" align="right">
 I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I have been coding for last 7 years but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
@@ -40,7 +40,7 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
     <li>First author of <a href="https://ieeexplore.ieee.org/abstract/document/9404497">research paper</a> at IEEE Conference.</li>
     <li><a href="https://drive.google.com/file/d/1Au7d7vEiCDCXXmKBRnOzWUUJhBnOzOzV/view?usp=sharing">Winner</a> of Skillwars-Coding Competition'21 organized Skillship VIT.</li>
     <li><a href="https://devpost.com/software/eventour">Winner</a> of Hack-this-Fall Hackathon'21.</li>
-    <li>(Currently) Top Contributor of SWOC'21.</li>
+    <li>One of the top contributors at SWOC'21.</li>
   </ul>
 </p>
 
@@ -74,7 +74,8 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
   </a>
 </p> 
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Let's be Friends...</h2>
+<h2>🤝 Let's be Friends...</h2>
+<!-- <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Let's be Friends...</h2> -->
 <p align="left">
 <a href="https://twitter.com/udith_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udith_28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udith-shyamsukha-59052b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udith-shyamsukha-59052b224" height="30" width="40" /></a>
