@@ -1,6 +1,7 @@
-<h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"> C I A O</h1> 👋
+<!-- <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"></h1> -->
 <img src="./images/img1.png" align="right">
-I am Udith Shyamsukha, a 2nd year under-grad from IT branch of VIT,Vellore. I have been coding since 2015 but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
+I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I have been coding for last 7 years but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
 <br><br><br><br>
 
 <h2>📚 Làñgüâgēs & Frámêwørks</h2>
