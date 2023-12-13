@@ -1,7 +1,7 @@
-<h1 align="center"> C I A O   👋</h1> 
+<h1 align="center"> C I A O  👋</h1> 
 <!-- <h1 align="center"> C I A O <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"></h1> -->
 <img src="./images/img1.png" align="right">
-I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I have been coding for last 7 years but I have lately gained interest in Open Source. Looking for some eventful collabs🤩...
+Hey there! I'm Udith Shyamsukha, a final-year undergraduate student majoring in IT at VIT, Vellore. I've been immersed in the world of coding for the past 7 years, and recently, I've developed a keen interest in contributing to open-source projects. In addition to my academic pursuits, I've had the opportunity to work as a Full Stack Developer intern at various startups, as well as intern at Accenture. My primary tech stack revolves around MERN, but I'm always eager to explore and embrace new technologies. I'm on the lookout for exciting collaborations and meaningful projects – let's create something awesome together! 🚀✨
 <br><br><br><br>
 
 <h2>📚 Làñgüâgēs & Frámêwørks</h2>
@@ -11,6 +11,8 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -25,6 +27,7 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
   <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  
 </p>
 
 <h2>:wink: For the records...</h2>
@@ -37,7 +40,7 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
 <h2>🏆 A pinch of recent achievements...</h2>
 <p>
   <ul>
-    <li>First author of <a href="https://ieeexplore.ieee.org/abstract/document/9404497">research paper</a> at IEEE Conference.</li>
+    <li>Third position at Intra-college coding competition Cook-Off 8.0</li>
     <li><a href="https://drive.google.com/file/d/1Au7d7vEiCDCXXmKBRnOzWUUJhBnOzOzV/view?usp=sharing">Winner</a> of Skillwars-Coding Competition'21 organized Skillship VIT.</li>
     <li><a href="https://devpost.com/software/eventour">Winner</a> of Hack-this-Fall Hackathon'21.</li>
     <li>One of the top contributors at SWOC'21.</li>
@@ -53,7 +56,7 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=revster&theme=tokyonight"/>
   </a>
   <a href="https://github.com/udith51/ijrt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=ijrt&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=outsider&theme=tokyonight" />
   </a>
 </p>
 
@@ -62,7 +65,7 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
   <a href="https://github.com/udith51/Student-portal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=Student-portal&theme=radical" />
   </a>
-</p>  
+</p>
 
 <h2>🎯 Hack-a-thons</h2>
 <p style="display: flex; justify-content: space-evenly; flex-wrap: wrap;" align=center>
@@ -72,30 +75,17 @@ I am Udith Shyamsukha, a 3nd year under-grad from IT branch of VIT,Vellore. I ha
   <a href="https://github.com/udith51/vokal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udith51&repo=vokal&theme=merko" />
   </a>
-</p> 
+</p>
 
 <h2>🤝 Let's be Friends...</h2>
 <!-- <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Let's be Friends...</h2> -->
 <p align="left">
 <a href="https://twitter.com/udith_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udith_28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/udith-shyamsukha-59052b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udith-shyamsukha-59052b224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/udith-shyamsukha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udith-shyamsukha/" height="30" width="40" /></a>
 <a href="https://fb.com/udithshyamsukha28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udithshyamsukha28" height="30" width="40" /></a>
 <a href="https://instagram.com/udith.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udith.28" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/udithshyamsukha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@udithshyamsukha" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@udith8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@udith8" height="30" width="40" /></a>
 <a href="https://discord.gg/#3837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3837" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/udithshyamsukha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/udithshyamsukha/" height="30" width="40" /></a>
 </p>
-<!--
-**udith51/udith51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
